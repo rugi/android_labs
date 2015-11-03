@@ -25,7 +25,8 @@ En caso de que ya lo tuvieras instalado:
 Para validar la instalación, solo requerimos invocar al compilador con la bandera --version
 
   %> ceylon --version
-    ceylon version 1.2.0 (A Series Of Unlikely Explanations)
+
+	ceylon version 1.2.0 (A Series Of Unlikely Explanations)
 
 
 La versiòn 1.2.0 de Ceylon está lista para ser utilizada.
